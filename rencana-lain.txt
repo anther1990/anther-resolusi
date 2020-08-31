@@ -1,4 +1,6 @@
 Rencana lain
 - Belajar Bahasa Phyton
   - Belajar Framework
-- Belajar Android
+    * AIOHTTP
+    * Bottle
+- Belajar Membuat Aplikasi GIS
