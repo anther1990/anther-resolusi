@@ -3,5 +3,5 @@ Anther resolusi
 - Belajar CSS
 - Belajar Javascript
 - Belajar PHP
-- Belajar Phyton
-- Belajar Framework
+- Belajar Framework Codeigniter
+- Belajar Framework Laravel
