@@ -1,4 +1,7 @@
 Rencana lain
 - Belajar Bahasa Phyton
   - Belajar Framework
+    * Django
 - Belajar Android
+  - Belajar Dasar Andriod
+- Belajar Membuat Aplikasi GIS
