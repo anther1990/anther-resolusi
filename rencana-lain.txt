@@ -4,6 +4,7 @@ Rencana lain
     * AIOHTTP
     * Django
     * Bottle
+    * CubicWeb
 - Belajar Android
   - Belajar Dasar Andriod
 - Belajar Membuat Aplikasi GIS
