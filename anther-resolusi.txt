@@ -1,0 +1,6 @@
+Anther resolusi
+- Belajar HTML
+- Belajar CSS
+- Belajar Javascript
+- Belajar PHP
+- Belajar Phyton
